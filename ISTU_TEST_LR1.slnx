@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ArrayProcessor.Tests/ArrayProcessor.Tests.csproj" />
+  <Project Path="ArrayProcessor/ArrayProcessor.csproj" />
+</Solution>
